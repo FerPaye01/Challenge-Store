@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+plotly
+scipy
+pyproj
+contextily
+adjustText
+matplotlib-scalebar
