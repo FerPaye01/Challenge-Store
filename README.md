@@ -1,6 +1,5 @@
 # AluraStoreLatam — Análisis exploratorio y geoespacial de ventas
 
-![Portada del proyecto](./docs/cover.png) <!-- Reemplaza ./docs/cover.png por tu imagen real -->
 
 ## 🏆 Insignias
 [![Estado](https://img.shields.io/badge/estado-completo-green)]()
