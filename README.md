@@ -188,7 +188,7 @@ El notebook contiene una sección llamada "Informe Final: Análisis para la Sele
 - Paulo Silveira — uso de Markdown
 - Álvaro Camacho - Instructor del curso
 - Equipo de Instructores de Alura Latam (continuar agregando)
-
+- Wilfredo Rojas - Información del Challenge
 
 
 ## 👨‍💻 Personas Desarrolladoras / Autor
